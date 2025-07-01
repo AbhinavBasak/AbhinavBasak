@@ -12,7 +12,7 @@ Email Me 👉 ✉️ **abhiiehere@gmail.com** For Collaboration/Project or Anyth
 - ⚡ **Fun fact:** There are 10 kinds of people one who undestand binary, and those who don't.
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ABHINAVBASAK) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](http://linkedin.com/in/abhinav-basak-contactabhinavbasak) 
 
 <!-- Snake Game Repo View -->
 
