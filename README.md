@@ -6,8 +6,8 @@ Email Me 👉 ✉️ **abhiiehere@gmail.com** For Collaboration/Project or Anyth
 - 🔭 **I’m currently working on:** Freelance E-commerce web app
 - 🌱 **I’m currently learning:** DevOps
 - 👯 **I’m looking to collaborate on:** Flutter and DevOps related projects
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** Enter your email here
+- 💬 **Ask me about:** react, flutter, cybersecurity 
+- 📫 **How to reach me:** abhiiehere@gmail.com
 - 😄 **Pronouns:** Abhinav Sir
 - ⚡ **Fun fact:** There are 10 kinds of people one who undestand binary, and those who don't.
 
