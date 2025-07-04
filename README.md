@@ -1,4 +1,4 @@
-# 💫 Hi 👋, I'm Abhinav BAsak
+# 💫 Hi 👋, I'm Abhinav Basak
 **A passionate Fullstack Developer Engineer || **
 
 Email Me 👉 ✉️ **abhiiehere@gmail.com** For Collaboration/Project or Anything Else. 
