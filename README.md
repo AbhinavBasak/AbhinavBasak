@@ -3,8 +3,8 @@
 
 Email Me 👉 ✉️ **abhiiehere@gmail.com** For Collaboration/Project or Anything Else. 
 
-- 🔭 **I’m currently working on:** Freelance E-commerce web app
-- 🌱 **I’m currently learning:** DevOps
+- 🔭 **I’m currently working on:** Freelance E-commerce & static web sties/ apps
+- 🌱 **I’m currently learning:** DevOps ML
 - 👯 **I’m looking to collaborate on:** Flutter and DevOps related projects
 - 💬 **Ask me about:** react, flutter, cybersecurity 
 - 📫 **How to reach me:** abhiiehere@gmail.com
